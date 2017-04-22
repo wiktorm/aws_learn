@@ -1,2 +1,3 @@
 # AWS Learn
-Learning, testing
+Learning, testing, practicing AWS and other various technologies
+
